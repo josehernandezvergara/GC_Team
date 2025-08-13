@@ -1,0 +1,4 @@
+from PIL import Image
+import numpy as np
+
+# ARCHIVO VACIO PARA EVITAR CONFLICTOS DE IMPORTACION
